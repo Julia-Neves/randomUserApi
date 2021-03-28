@@ -1,2 +1,2 @@
 # RandomUserApi
-API que retorna um usuario aleatório!
+API que retorna um usuário aleatório!
