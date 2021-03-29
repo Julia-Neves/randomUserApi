@@ -6,16 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
   "author": "julia neves",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Julia-Neves/randomUserApi/issues"
-  },
-  "homepage": "https://github.com/Julia-Neves/randomUserApi#readme",
   "dependencies": {
     "express": "^4.17.1",
     "faker": "^5.5.1"
